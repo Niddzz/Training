@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    text-decoration:wavy underline; text-decoration-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(32, 50, 211); background-color: rgb(15, 182, 160);
+}
+h2{
+    text-align: start;
+    text-decoration: double overline; text-decoration-color: brown;
+    font-weight: 800;
+    font-family: copperplate;
+    color: chocolate;  background-color: aqua;
+}
+h3{
+    text-align: left;
+    border: solid;
+    text-decoration: dotted line-through;
+    color: black; background-color: blanchedalmond;
+}
+p{
+    font-weight: 500;
+    font-family: sans-serif
+}
